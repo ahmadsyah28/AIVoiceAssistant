@@ -41,8 +41,8 @@ voice-chatbot/
 ## Instalasi
 1. **Kloning Repositori**:
    ```bash
-   git clone https://github.com/username/voice-chatbot.git
-   cd voice-chatbot
+   https://github.com/ahmadsyah28/AIVoiceAssistant.git
+   cd AIVoiceAssistant
    ```
 
 2. **Buat dan Aktifkan Virtual Environment**:
