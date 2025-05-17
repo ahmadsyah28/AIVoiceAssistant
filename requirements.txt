@@ -8,4 +8,5 @@ uvicorn==0.34.2
 TTS==0.22.0
 gradio==5.29.0
 protobuf==3.20.3
+g2p-id==0.0.4
 uuid==1.30
